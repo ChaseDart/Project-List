@@ -23,11 +23,11 @@ All these project ideas come from https://github.com/karan/Projects
 Numbers
 ---------
 
-**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+✓ **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+✓ **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
@@ -88,7 +88,7 @@ Graph
 
 **Connected Graph** - Create a program which takes a graph as an input and outputs whether every node is connected or not.
 
-**Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges.
+✓ **Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges.
 
 **Minimum Spanning Tree** - Create a program which takes a connected, undirected graph with weights and outputs the minimum spanning tree of the graph i.e., a
 subgraph that is a tree, contains all the vertices, and the sum of its weights is the least possible.
